@@ -2598,7 +2598,12 @@
     "2026-09-20": {},
     "2026-09-19": {}
   },
-  "reportedDays": {},
+  "reportedDays": {
+    "2026-10-12": {
+      "type": "autre",
+      "label": "EDN"
+    }
+  },
   "itemOverrides": {},
   "subjectDeadlines": {},
   "customTasks": {},
@@ -4038,6 +4043,6 @@
   },
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-09-20T18:02:40.859Z"
+    "updatedAt": "2026-09-20T18:06:14.363Z"
   }
 }
