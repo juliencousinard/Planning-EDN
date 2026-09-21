@@ -6,6 +6,7 @@
     "ecosDate": "",
     "newCats": [
       "cardio",
+      "chirvisc",
       "gastro",
       "hemato",
       "nephro",
@@ -2599,7 +2600,9 @@
   },
   "checks": {
     "2026-09-20": {},
-    "2026-09-19": {}
+    "2026-09-19": {},
+    "2026-09-26": {},
+    "2026-09-27": {}
   },
   "reportedDays": {
     "2026-10-12": {
@@ -4041,13 +4044,41 @@
       "Information et suivi d'un patient en chirurgie ambulatoire"
     ]
   ],
-  "pinnedDayItems": {},
+  "pinnedDayItems": {
+    "2026-09-21": [
+      {
+        "id": "S1_i221_o1",
+        "kind": "item",
+        "itemNum": 221,
+        "mode": "revision",
+        "idx": 0,
+        "phase": "S1",
+        "iso": "2026-09-21",
+        "overridden": false,
+        "originalItemNum": 221
+      },
+      {
+        "id": "S1_i269_o1",
+        "kind": "item",
+        "itemNum": 269,
+        "mode": "revision",
+        "idx": 1,
+        "phase": "S1",
+        "iso": "2026-09-21",
+        "overridden": false,
+        "originalItemNum": 269
+      }
+    ]
+  },
   "queueFreeze": {
-    "S1": [],
+    "S1": [
+      221,
+      269
+    ],
     "S2": []
   },
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-09-21T18:37:27.746Z"
+    "updatedAt": "2026-09-21T18:38:41.614Z"
   }
 }
