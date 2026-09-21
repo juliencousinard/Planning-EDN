@@ -2594,7 +2594,8 @@
   "darkMode": false,
   "onboarded": true,
   "itemChecks": {
-    "S1_i221_o1": true
+    "S1_i221_o1": true,
+    "S1_i269_o1": true
   },
   "checks": {
     "2026-09-20": {},
@@ -2609,7 +2610,9 @@
   "itemOverrides": {},
   "subjectDeadlines": {},
   "customTasks": {},
-  "itemDifficulty": {},
+  "itemDifficulty": {
+    "269": "difficile"
+  },
   "skippedItemTasks": {},
   "lcaEntries": {},
   "sddItems": [
@@ -4045,6 +4048,6 @@
   },
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-09-21T16:33:31.738Z"
+    "updatedAt": "2026-09-21T18:37:27.746Z"
   }
 }
