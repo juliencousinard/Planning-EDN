@@ -2593,7 +2593,9 @@
   ],
   "darkMode": false,
   "onboarded": true,
-  "itemChecks": {},
+  "itemChecks": {
+    "S1_i221_o1": true
+  },
   "checks": {
     "2026-09-20": {},
     "2026-09-19": {}
@@ -4043,6 +4045,6 @@
   },
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-09-21T13:00:43.902Z"
+    "updatedAt": "2026-09-21T16:33:31.738Z"
   }
 }
