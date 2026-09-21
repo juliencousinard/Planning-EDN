@@ -2608,6 +2608,18 @@
     "2026-10-12": {
       "type": "autre",
       "label": "EDN"
+    },
+    "2026-10-13": {
+      "type": "autre",
+      "label": "EDN J2"
+    },
+    "2026-10-14": {
+      "type": "autre",
+      "label": "EDN J3"
+    },
+    "2026-10-15": {
+      "type": "autre",
+      "label": "EDN J4"
     }
   },
   "itemOverrides": {},
@@ -4079,6 +4091,6 @@
   },
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-09-21T18:38:41.614Z"
+    "updatedAt": "2026-09-21T18:39:54.773Z"
   }
 }
