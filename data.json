@@ -2599,13 +2599,22 @@
     "S1_i269_o1": true,
     "S1_i354_o1": true,
     "S1_i257_o1": true,
-    "S1_i362_o1": true
+    "S1_i362_o1": true,
+    "S1_i48_o1": true
   },
   "checks": {
     "2026-09-20": {},
     "2026-09-19": {},
-    "2026-09-26": {},
-    "2026-09-27": {}
+    "2026-09-26": {
+      "lca": true,
+      "free": true
+    },
+    "2026-09-27": {
+      "lca": true,
+      "free": true
+    },
+    "2026-10-03": {},
+    "2026-10-04": {}
   },
   "reportedDays": {
     "2026-10-12": {
@@ -4083,6 +4092,174 @@
         "overridden": false,
         "originalItemNum": 269
       }
+    ],
+    "2026-09-22": [
+      {
+        "id": "S1_i354_o1",
+        "kind": "item",
+        "itemNum": 354,
+        "mode": "revision",
+        "idx": 2,
+        "phase": "S1",
+        "iso": "2026-09-22",
+        "overridden": false,
+        "originalItemNum": 354
+      },
+      {
+        "id": "S1_i212_o1",
+        "kind": "item",
+        "itemNum": 212,
+        "mode": "revision",
+        "idx": 3,
+        "phase": "S1",
+        "iso": "2026-09-22",
+        "overridden": false,
+        "originalItemNum": 212
+      }
+    ],
+    "2026-09-23": [
+      {
+        "id": "S1_i257_o1",
+        "kind": "item",
+        "itemNum": 257,
+        "mode": "revision",
+        "idx": 4,
+        "phase": "S1",
+        "iso": "2026-09-23",
+        "overridden": false,
+        "originalItemNum": 257
+      },
+      {
+        "id": "S1_i361_o1",
+        "kind": "item",
+        "itemNum": 361,
+        "mode": "revision",
+        "idx": 5,
+        "phase": "S1",
+        "iso": "2026-09-23",
+        "overridden": false,
+        "originalItemNum": 361
+      }
+    ],
+    "2026-09-24": [
+      {
+        "id": "S1_i47_o1",
+        "kind": "item",
+        "itemNum": 47,
+        "mode": "revision",
+        "idx": 6,
+        "phase": "S1",
+        "iso": "2026-09-24",
+        "overridden": false,
+        "originalItemNum": 47
+      },
+      {
+        "id": "S1_i222_o1",
+        "kind": "item",
+        "itemNum": 222,
+        "mode": "revision",
+        "idx": 7,
+        "phase": "S1",
+        "iso": "2026-09-24",
+        "overridden": false,
+        "originalItemNum": 222
+      }
+    ],
+    "2026-09-25": [
+      {
+        "id": "S1_i356_o1",
+        "kind": "item",
+        "itemNum": 356,
+        "mode": "revision",
+        "idx": 8,
+        "phase": "S1",
+        "iso": "2026-09-25",
+        "overridden": false,
+        "originalItemNum": 356
+      },
+      {
+        "id": "S1_i271_o1",
+        "kind": "item",
+        "itemNum": 271,
+        "mode": "revision",
+        "idx": 9,
+        "phase": "S1",
+        "iso": "2026-09-25",
+        "overridden": false,
+        "originalItemNum": 271
+      }
+    ],
+    "2026-09-28": [
+      {
+        "id": "S1_i213_o1",
+        "kind": "item",
+        "itemNum": 213,
+        "mode": "revision",
+        "idx": 10,
+        "phase": "S1",
+        "iso": "2026-09-28",
+        "overridden": false,
+        "originalItemNum": 213
+      },
+      {
+        "id": "S1_i258_o1",
+        "kind": "item",
+        "itemNum": 258,
+        "mode": "revision",
+        "idx": 11,
+        "phase": "S1",
+        "iso": "2026-09-28",
+        "overridden": false,
+        "originalItemNum": 258
+      }
+    ],
+    "2026-09-29": [
+      {
+        "id": "S1_i362_o1",
+        "kind": "item",
+        "itemNum": 362,
+        "mode": "revision",
+        "idx": 12,
+        "phase": "S1",
+        "iso": "2026-09-29",
+        "overridden": false,
+        "originalItemNum": 362
+      },
+      {
+        "id": "S1_i48_o1",
+        "kind": "item",
+        "itemNum": 48,
+        "mode": "revision",
+        "idx": 13,
+        "phase": "S1",
+        "iso": "2026-09-29",
+        "overridden": false,
+        "originalItemNum": 48
+      }
+    ],
+    "2026-09-30": [
+      {
+        "id": "S1_i223_o1",
+        "kind": "item",
+        "itemNum": 223,
+        "mode": "revision",
+        "idx": 14,
+        "phase": "S1",
+        "iso": "2026-09-30",
+        "overridden": false,
+        "originalItemNum": 223
+      },
+      {
+        "id": "S1_i357_o1",
+        "kind": "item",
+        "itemNum": 357,
+        "mode": "revision",
+        "idx": 15,
+        "phase": "S1",
+        "iso": "2026-09-30",
+        "overridden": false,
+        "originalItemNum": 357
+      }
     ]
   },
   "queueFreeze": {
@@ -4094,6 +4271,6 @@
   },
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-09-30T12:07:57.401Z"
+    "updatedAt": "2026-09-30T12:08:59.896Z"
   }
 }
