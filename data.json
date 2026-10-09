@@ -2611,7 +2611,8 @@
     "S1_i260_o1": true,
     "S1_i365_o1": true,
     "S1_i363_o1": true,
-    "S1_i50_o1": true
+    "S1_i50_o1": true,
+    "S1_i225_o1": true
   },
   "checks": {
     "2026-09-20": {},
@@ -4469,6 +4470,6 @@
   },
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-09T13:55:14.455Z"
+    "updatedAt": "2026-10-09T20:56:12.142Z"
   }
 }
