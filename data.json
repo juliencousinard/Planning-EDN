@@ -2642,8 +2642,14 @@
       "lca": true,
       "free": true
     },
-    "2026-10-17": {},
-    "2026-10-18": {},
+    "2026-10-17": {
+      "free": true,
+      "lca": true
+    },
+    "2026-10-18": {
+      "free": true,
+      "lca": true
+    },
     "2026-10-24": {},
     "2026-10-25": {},
     "2026-10-31": {},
@@ -4466,17 +4472,167 @@
         "overridden": false,
         "originalItemNum": 224
       }
+    ],
+    "2026-10-07": [
+      {
+        "id": "S1_i273_o1",
+        "kind": "item",
+        "itemNum": 273,
+        "mode": "revision",
+        "idx": 22,
+        "phase": "S1",
+        "iso": "2026-10-07",
+        "overridden": false,
+        "originalItemNum": 273
+      },
+      {
+        "id": "S1_i215_o1",
+        "kind": "item",
+        "itemNum": 215,
+        "mode": "revision",
+        "idx": 23,
+        "phase": "S1",
+        "iso": "2026-10-07",
+        "overridden": false,
+        "originalItemNum": 215
+      }
+    ],
+    "2026-10-08": [
+      {
+        "id": "S1_i260_o1",
+        "kind": "item",
+        "itemNum": 260,
+        "mode": "revision",
+        "idx": 24,
+        "phase": "S1",
+        "iso": "2026-10-08",
+        "overridden": false,
+        "originalItemNum": 260
+      },
+      {
+        "id": "S1_i365_o1",
+        "kind": "item",
+        "itemNum": 365,
+        "mode": "revision",
+        "idx": 25,
+        "phase": "S1",
+        "iso": "2026-10-08",
+        "overridden": false,
+        "originalItemNum": 365
+      }
+    ],
+    "2026-10-09": [
+      {
+        "id": "S1_i50_o1",
+        "kind": "item",
+        "itemNum": 50,
+        "mode": "revision",
+        "idx": 26,
+        "phase": "S1",
+        "iso": "2026-10-09",
+        "overridden": false,
+        "originalItemNum": 50
+      },
+      {
+        "id": "S1_i225_o1",
+        "kind": "item",
+        "itemNum": 225,
+        "mode": "revision",
+        "idx": 27,
+        "phase": "S1",
+        "iso": "2026-10-09",
+        "overridden": false,
+        "originalItemNum": 225
+      }
+    ],
+    "2026-10-16": [
+      {
+        "id": "S1_i274_o1",
+        "kind": "item",
+        "itemNum": 274,
+        "mode": "revision",
+        "idx": 28,
+        "phase": "S1",
+        "iso": "2026-10-16",
+        "overridden": false,
+        "originalItemNum": 274
+      },
+      {
+        "id": "S1_i216_o1",
+        "kind": "item",
+        "itemNum": 216,
+        "mode": "revision",
+        "idx": 29,
+        "phase": "S1",
+        "iso": "2026-10-16",
+        "overridden": false,
+        "originalItemNum": 216
+      }
+    ],
+    "2026-10-19": [
+      {
+        "id": "S1_i261_o1",
+        "kind": "item",
+        "itemNum": 261,
+        "mode": "revision",
+        "idx": 30,
+        "phase": "S1",
+        "iso": "2026-10-19",
+        "overridden": false,
+        "originalItemNum": 261
+      },
+      {
+        "id": "S1_i51_o1",
+        "kind": "item",
+        "itemNum": 51,
+        "mode": "revision",
+        "idx": 31,
+        "phase": "S1",
+        "iso": "2026-10-19",
+        "overridden": false,
+        "originalItemNum": 51
+      }
     ]
   },
   "queueFreeze": {
     "S1": [
       221,
-      269
+      269,
+      354,
+      212,
+      257,
+      361,
+      47,
+      222,
+      356,
+      271,
+      213,
+      258,
+      362,
+      48,
+      223,
+      357,
+      272,
+      214,
+      259,
+      363,
+      49,
+      224,
+      273,
+      215,
+      260,
+      365,
+      50,
+      225,
+      274,
+      216,
+      261,
+      51
     ],
     "S2": []
   },
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-19T20:19:51.826Z"
+    "updatedAt": "2026-10-19T20:21:02.379Z"
   }
 }
