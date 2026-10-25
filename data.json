@@ -2615,7 +2615,8 @@
     "S1_i225_o1": true,
     "S1_i222_o1": true,
     "S1_i51_o1": true,
-    "S1_i274_o1": true
+    "S1_i274_o1": true,
+    "S1_i218_o1": true
   },
   "checks": {
     "2026-09-20": {},
@@ -4846,7 +4847,7 @@
   },
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-25T17:59:37.064Z"
+    "updatedAt": "2026-10-25T20:25:44.024Z"
   },
   "customTheme": {
     "enabled": false,
@@ -5064,5 +5065,11 @@
   "pinResetV2": true,
   "difficultyBoosterCleanupV1": true,
   "manualItems": {},
-  "itemDoneAt": {}
+  "itemDoneAt": {
+    "S1_i218_o1": {
+      "on": "2026-10-25",
+      "planned": "2026-10-23",
+      "itemNum": 218
+    }
+  }
 }
