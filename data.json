@@ -19,7 +19,59 @@
     "studyModeP1": "alterne",
     "studyModeP2": "alterne",
     "showCountdownEdn": true,
-    "showCountdownEcos": true
+    "showCountdownEcos": true,
+    "blockOrder": [
+      "chir1",
+      "chir2",
+      "endogyn",
+      "transv",
+      "ped",
+      "hemonc",
+      "psyneuro",
+      "cardiopneu",
+      "inv1",
+      "inv2",
+      "mg",
+      "sp",
+      "aigu"
+    ],
+    "weeklySchedule": {
+      "study": {
+        "days": [
+          "MO",
+          "TU",
+          "WE",
+          "TH",
+          "FR",
+          "SA",
+          "SU"
+        ],
+        "periodWeeks": 1
+      },
+      "lca": {
+        "count": 2,
+        "days": [
+          "SA",
+          "SU"
+        ],
+        "periodWeeks": 1
+      },
+      "free": {
+        "count": 1,
+        "days": [
+          "SA",
+          "SU"
+        ],
+        "periodWeeks": 1
+      },
+      "rest": {
+        "days": [
+          "SA",
+          "SU"
+        ],
+        "periodWeeks": 1
+      }
+    }
   },
   "items": [
     [
@@ -2619,7 +2671,9 @@
     "S1_i218_o1": true,
     "S1_i276_o1": true,
     "S1_i52_o1": true,
-    "S1_i227_o1": true
+    "S1_i227_o1": true,
+    "S1_i53_o1": true,
+    "S1_i263_o1": true
   },
   "checks": {
     "2026-09-20": {},
@@ -4801,6 +4855,60 @@
         "originalItemNum": 218,
         "dayCap": 2
       }
+    ],
+    "2026-10-27": [
+      {
+        "id": "S1_i228_o1",
+        "kind": "item",
+        "itemNum": 228,
+        "mode": "revision",
+        "idx": 42,
+        "idxKnown": true,
+        "phase": "S1",
+        "iso": "2026-10-27",
+        "overridden": false,
+        "originalItemNum": 228,
+        "dayCap": 2
+      },
+      {
+        "id": "S1_i277_o1",
+        "kind": "item",
+        "itemNum": 277,
+        "mode": "revision",
+        "idx": 43,
+        "idxKnown": true,
+        "phase": "S1",
+        "iso": "2026-10-27",
+        "overridden": false,
+        "originalItemNum": 277,
+        "dayCap": 2
+      }
+    ],
+    "2026-10-26": [
+      {
+        "id": "S1_i263_o1",
+        "kind": "item",
+        "itemNum": 263,
+        "mode": "revision",
+        "idx": 40,
+        "phase": "S1",
+        "iso": "2026-10-26",
+        "overridden": false,
+        "originalItemNum": 263,
+        "dayCap": 2
+      },
+      {
+        "id": "S1_i53_o1",
+        "kind": "item",
+        "itemNum": 53,
+        "mode": "revision",
+        "idx": 41,
+        "phase": "S1",
+        "iso": "2026-10-26",
+        "overridden": false,
+        "originalItemNum": 53,
+        "dayCap": 2
+      }
     ]
   },
   "queueFreeze": {
@@ -4844,13 +4952,15 @@
       52,
       227,
       276,
-      218
+      218,
+      263,
+      53
     ],
     "S2": []
   },
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-25T21:57:55.858Z"
+    "updatedAt": "2026-10-27T11:01:51.894Z"
   },
   "customTheme": {
     "enabled": false,
@@ -5062,6 +5172,12 @@
       "l": 2,
       "f": 1,
       "s": 1
+    },
+    "2026-10-25": {
+      "r": 1,
+      "l": 2,
+      "f": 1,
+      "s": 1
     }
   },
   "pinResetV1": true,
@@ -5088,6 +5204,16 @@
       "on": "2026-10-25",
       "planned": "2026-10-22",
       "itemNum": 227
+    },
+    "S1_i53_o1": {
+      "on": "2026-10-27",
+      "planned": "2026-10-26",
+      "itemNum": 53
+    },
+    "S1_i263_o1": {
+      "on": "2026-10-27",
+      "planned": "2026-10-26",
+      "itemNum": 263
     }
   }
 }
