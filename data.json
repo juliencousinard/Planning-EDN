@@ -2872,6 +2872,7 @@
   "customTasks": {},
   "itemDifficulty": {
     "219": "difficile",
+    "261": "difficile",
     "264": "difficile",
     "269": "difficile"
   },
@@ -5032,7 +5033,7 @@
   },
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-29T14:23:54.743Z"
+    "updatedAt": "2026-10-29T18:50:56.892Z"
   },
   "customTheme": {
     "enabled": false,
