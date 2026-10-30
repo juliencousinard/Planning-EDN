@@ -2680,7 +2680,8 @@
     "S1_i264_o1": true,
     "S1_i54_o1": true,
     "S1_i229_o1": true,
-    "S1_i278_o1": true
+    "S1_i278_o1": true,
+    "S1_i220_o1": true
   },
   "checks": {
     "2026-09-20": {},
@@ -2873,6 +2874,7 @@
   "customTasks": {},
   "itemDifficulty": {
     "219": "difficile",
+    "220": "difficile",
     "261": "difficile",
     "264": "difficile",
     "269": "difficile",
@@ -5061,7 +5063,7 @@
   },
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-10-30T15:23:56.622Z"
+    "updatedAt": "2026-10-30T18:36:35.241Z"
   },
   "customTheme": {
     "enabled": false,
@@ -5369,6 +5371,11 @@
       "on": "2026-10-30",
       "planned": "2026-10-30",
       "itemNum": 278
+    },
+    "S1_i220_o1": {
+      "on": "2026-10-30",
+      "planned": "2026-10-30",
+      "itemNum": 220
     }
   }
 }
