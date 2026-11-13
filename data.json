@@ -2685,7 +2685,8 @@
     "S1_i226_o1": true,
     "S1_i49_o1": true,
     "S1_i266_o1": true,
-    "S1_i230_o1": true
+    "S1_i230_o1": true,
+    "S1_i56_o1": true
   },
   "checks": {
     "2026-09-20": {},
@@ -5092,6 +5093,62 @@
         "originalItemNum": 267,
         "dayCap": 2
       }
+    ],
+    "2026-11-12": [
+      {
+        "id": "S1_i56_o1",
+        "kind": "item",
+        "itemNum": 56,
+        "mode": "revision",
+        "idx": 56,
+        "idxKnown": true,
+        "phase": "S1",
+        "iso": "2026-11-12",
+        "overridden": false,
+        "originalItemNum": 56,
+        "dayCap": 2
+      },
+      {
+        "id": "S1_i231_o1",
+        "kind": "item",
+        "itemNum": 231,
+        "mode": "revision",
+        "idx": 57,
+        "idxKnown": true,
+        "phase": "S1",
+        "iso": "2026-11-12",
+        "overridden": false,
+        "originalItemNum": 231,
+        "dayCap": 2
+      }
+    ],
+    "2026-11-13": [
+      {
+        "id": "S1_i280_o1",
+        "kind": "item",
+        "itemNum": 280,
+        "mode": "revision",
+        "idx": 58,
+        "idxKnown": true,
+        "phase": "S1",
+        "iso": "2026-11-13",
+        "overridden": false,
+        "originalItemNum": 280,
+        "dayCap": 2
+      },
+      {
+        "id": "S1_i316_o1",
+        "kind": "item",
+        "itemNum": 316,
+        "mode": "revision",
+        "idx": 59,
+        "idxKnown": true,
+        "phase": "S1",
+        "iso": "2026-11-13",
+        "overridden": false,
+        "originalItemNum": 316,
+        "dayCap": 2
+      }
     ]
   },
   "queueFreeze": {
@@ -5147,13 +5204,21 @@
       278,
       220,
       266,
-      55
+      55,
+      230,
+      279,
+      315,
+      267,
+      56,
+      231,
+      280,
+      316
     ],
     "S2": []
   },
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-11-11T17:12:26.339Z"
+    "updatedAt": "2026-11-13T15:35:16.743Z"
   },
   "customTheme": {
     "enabled": false,
@@ -5558,6 +5623,11 @@
       "on": "2026-11-11",
       "planned": "2026-11-10",
       "itemNum": 230
+    },
+    "S1_i56_o1": {
+      "on": "2026-11-13",
+      "planned": "2026-11-12",
+      "itemNum": 56
     }
   }
 }
