@@ -2688,7 +2688,8 @@
     "S1_i230_o1": true,
     "S1_i56_o1": true,
     "S1_i280_o1": true,
-    "S1_i279_o1": true
+    "S1_i279_o1": true,
+    "S1_i57_o1": true
   },
   "checks": {
     "2026-09-20": {},
@@ -5051,6 +5052,7 @@
         "itemNum": 230,
         "mode": "revision",
         "idx": 52,
+        "idxKnown": true,
         "phase": "S1",
         "iso": "2026-11-10",
         "overridden": false,
@@ -5063,6 +5065,7 @@
         "itemNum": 279,
         "mode": "revision",
         "idx": 53,
+        "idxKnown": true,
         "phase": "S1",
         "iso": "2026-11-10",
         "overridden": false,
@@ -5077,6 +5080,7 @@
         "itemNum": 315,
         "mode": "revision",
         "idx": 54,
+        "idxKnown": true,
         "phase": "S1",
         "iso": "2026-11-11",
         "overridden": false,
@@ -5089,6 +5093,7 @@
         "itemNum": 267,
         "mode": "revision",
         "idx": 55,
+        "idxKnown": true,
         "phase": "S1",
         "iso": "2026-11-11",
         "overridden": false,
@@ -5149,6 +5154,32 @@
         "iso": "2026-11-13",
         "overridden": false,
         "originalItemNum": 316,
+        "dayCap": 2
+      }
+    ],
+    "2026-11-16": [
+      {
+        "id": "S1_i268_o1",
+        "kind": "item",
+        "itemNum": 268,
+        "mode": "revision",
+        "idx": 60,
+        "phase": "S1",
+        "iso": "2026-11-16",
+        "overridden": false,
+        "originalItemNum": 268,
+        "dayCap": 2
+      },
+      {
+        "id": "S1_i57_o1",
+        "kind": "item",
+        "itemNum": 57,
+        "mode": "revision",
+        "idx": 61,
+        "phase": "S1",
+        "iso": "2026-11-16",
+        "overridden": false,
+        "originalItemNum": 57,
         "dayCap": 2
       }
     ]
@@ -5220,7 +5251,7 @@
   },
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-11-15T10:43:00.802Z"
+    "updatedAt": "2026-11-16T13:14:12.451Z"
   },
   "customTheme": {
     "enabled": false,
@@ -5534,6 +5565,36 @@
       "l": 0,
       "f": 0,
       "s": 1
+    },
+    "2026-11-11": {
+      "r": 0,
+      "l": 0,
+      "f": 0,
+      "s": 1
+    },
+    "2026-11-12": {
+      "r": 0,
+      "l": 0,
+      "f": 0,
+      "s": 1
+    },
+    "2026-11-13": {
+      "r": 0,
+      "l": 0,
+      "f": 0,
+      "s": 1
+    },
+    "2026-11-14": {
+      "r": 1,
+      "l": 2,
+      "f": 1,
+      "s": 1
+    },
+    "2026-11-15": {
+      "r": 1,
+      "l": 2,
+      "f": 1,
+      "s": 1
     }
   },
   "pinResetV1": true,
@@ -5640,6 +5701,11 @@
       "on": "2026-11-15",
       "planned": "2026-11-10",
       "itemNum": 279
+    },
+    "S1_i57_o1": {
+      "on": "2026-11-16",
+      "planned": "2026-11-16",
+      "itemNum": 57
     }
   }
 }
