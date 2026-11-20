@@ -2690,7 +2690,8 @@
     "S1_i280_o1": true,
     "S1_i279_o1": true,
     "S1_i57_o1": true,
-    "S1_i268_o1": true
+    "S1_i268_o1": true,
+    "S1_i282_o1": true
   },
   "checks": {
     "2026-09-20": {},
@@ -2887,7 +2888,8 @@
     "261": "difficile",
     "264": "difficile",
     "269": "difficile",
-    "278": "difficile"
+    "278": "difficile",
+    "282": "difficile"
   },
   "skippedItemTasks": {},
   "lcaEntries": {},
@@ -5183,6 +5185,116 @@
         "originalItemNum": 57,
         "dayCap": 2
       }
+    ],
+    "2026-11-17": [
+      {
+        "id": "S1_i232_o1",
+        "kind": "item",
+        "itemNum": 232,
+        "mode": "revision",
+        "idx": 62,
+        "idxKnown": true,
+        "phase": "S1",
+        "iso": "2026-11-17",
+        "overridden": false,
+        "originalItemNum": 232,
+        "dayCap": 2
+      },
+      {
+        "id": "S1_i281_o1",
+        "kind": "item",
+        "itemNum": 281,
+        "mode": "revision",
+        "idx": 63,
+        "idxKnown": true,
+        "phase": "S1",
+        "iso": "2026-11-17",
+        "overridden": false,
+        "originalItemNum": 281,
+        "dayCap": 2
+      }
+    ],
+    "2026-11-18": [
+      {
+        "id": "S1_i317_o1",
+        "kind": "item",
+        "itemNum": 317,
+        "mode": "revision",
+        "idx": 64,
+        "idxKnown": true,
+        "phase": "S1",
+        "iso": "2026-11-18",
+        "overridden": false,
+        "originalItemNum": 317,
+        "dayCap": 2
+      },
+      {
+        "id": "S1_i348_o1",
+        "kind": "item",
+        "itemNum": 348,
+        "mode": "revision",
+        "idx": 65,
+        "idxKnown": true,
+        "phase": "S1",
+        "iso": "2026-11-18",
+        "overridden": false,
+        "originalItemNum": 348,
+        "dayCap": 2
+      }
+    ],
+    "2026-11-19": [
+      {
+        "id": "S1_i164_o1",
+        "kind": "item",
+        "itemNum": 164,
+        "mode": "revision",
+        "idx": 66,
+        "idxKnown": true,
+        "phase": "S1",
+        "iso": "2026-11-19",
+        "overridden": false,
+        "originalItemNum": 164,
+        "dayCap": 2
+      },
+      {
+        "id": "S1_i233_o1",
+        "kind": "item",
+        "itemNum": 233,
+        "mode": "revision",
+        "idx": 67,
+        "idxKnown": true,
+        "phase": "S1",
+        "iso": "2026-11-19",
+        "overridden": false,
+        "originalItemNum": 233,
+        "dayCap": 2
+      }
+    ],
+    "2026-11-20": [
+      {
+        "id": "S1_i282_o1",
+        "kind": "item",
+        "itemNum": 282,
+        "mode": "revision",
+        "idx": 68,
+        "phase": "S1",
+        "iso": "2026-11-20",
+        "overridden": false,
+        "originalItemNum": 282,
+        "dayCap": 2
+      },
+      {
+        "id": "S1_i318_o1",
+        "kind": "item",
+        "itemNum": 318,
+        "mode": "revision",
+        "idx": 69,
+        "phase": "S1",
+        "iso": "2026-11-20",
+        "overridden": false,
+        "originalItemNum": 318,
+        "dayCap": 2
+      }
     ]
   },
   "queueFreeze": {
@@ -5246,13 +5358,21 @@
       56,
       231,
       280,
-      316
+      316,
+      268,
+      57,
+      232,
+      281,
+      317,
+      348,
+      164,
+      233
     ],
     "S2": []
   },
   "_meta": {
     "schemaVersion": 4,
-    "updatedAt": "2026-11-19T21:26:12.254Z"
+    "updatedAt": "2026-11-20T16:58:22.133Z"
   },
   "taskModeOverrides": {},
   "dayMixes": {},
@@ -5263,13 +5383,26 @@
     "accent": "#0071e3"
   },
   "itemsCatRefV": 1,
-  "pastDayMeta": {},
+  "pastDayMeta": {
+    "2026-11-19": {
+      "r": 0,
+      "l": 0,
+      "f": 0,
+      "s": 1
+    }
+  },
   "manualItems": {},
   "itemDoneAt": {
     "S1_i268_o1": {
       "on": "2026-11-19",
       "planned": "2026-11-16",
       "itemNum": 268,
+      "mode": "revision"
+    },
+    "S1_i282_o1": {
+      "on": "2026-11-20",
+      "planned": "2026-11-20",
+      "itemNum": 282,
       "mode": "revision"
     }
   }
